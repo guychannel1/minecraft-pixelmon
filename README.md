@@ -1,7 +1,7 @@
 # minecraft-pixelmon
 
 <h4>
-วิธีลง
+วิธีลง Map
 </h4>
 <p>Win+R และพิมพ์ %appdata%</p>
 
