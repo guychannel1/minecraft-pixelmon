@@ -3,7 +3,7 @@
 <h4>
 วิธีลง
 </h4>
-<p>Win+R และพิมพ์ %appdata%<ฝp>
+<p>Win+R และพิมพ์ %appdata%</p>
 
 
 <h4>
