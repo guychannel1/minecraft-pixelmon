@@ -1,6 +1,5 @@
 # minecraft-pixelmon
-<br>
-<br>
+
 <h4>
 แตกไฟล์ไว้ที่
 </h4>
